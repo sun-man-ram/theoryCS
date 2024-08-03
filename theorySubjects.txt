@@ -1,0 +1,8 @@
+OS,
+Networks, 
+DBMS,
+OOPS concepts, 
+virtualisation 
+and
+C +
+Python concepts(depends on company)
